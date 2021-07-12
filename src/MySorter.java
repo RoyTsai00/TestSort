@@ -2,6 +2,7 @@ public class MySorter {
 	public double[] sort(double[] d) {
 		if (d.length == 0) {
 //			double[] d2 = { 0.0 };
+			int j = 0;
 			double[] d2 = {};
 			return d2;
 		} else {
